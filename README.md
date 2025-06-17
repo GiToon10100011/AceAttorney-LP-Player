@@ -73,13 +73,6 @@ AceAttorney-LP-Player/
 │   └── favicon.ico       # 파비콘
 ├── src/
 │   ├── components/       # 리액트 컴포넌트
-│   │   ├── LPPlayer/     # LP 플레이어 관련 컴포넌트
-│   │   ├── Visualizer/   # 오디오 시각화 컴포넌트
-│   │   ├── TrackMenu/    # 트랙 메뉴 컴포넌트
-│   │   └── Controls/     # 컨트롤 컴포넌트
-│   ├── hooks/            # 커스텀 훅
-│   │   ├── useAudio.ts   # 오디오 관련 훅
-│   │   └── useKeyboard.ts # 키보드 이벤트 훅
 │   ├── contexts/         # 리액트 컨텍스트
 │   │   └── AudioContext.tsx # 오디오 상태 관리 컨텍스트
 │   ├── types/            # 타입스크립트 타입 정의
@@ -131,4 +124,4 @@ AceAttorney-LP-Player/
 
 ## ⚠️ 면책 조항
 
-이 프로젝트는 팬이 제작한 비공식 애플리케이션입니다. '에이스 어토니' 시리즈와 관련된 모든 음악, 이미지, 캐릭터의 저작권은 CAPCOM에 있습니다.
+이 프로젝트는 팬이 제작한 비공식 애플리케이션입니다. '역전재판' 시리즈와 관련된 모든 음악, 이미지, 캐릭터의 저작권은 CAPCOM에 있습니다.
