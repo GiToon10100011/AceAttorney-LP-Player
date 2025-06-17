@@ -2,6 +2,9 @@
 
 ![Ace Attorney LP Player](https://aalpplayer.web.app/images/AA1.jpg)
 
+![image](https://github.com/user-attachments/assets/44f35902-a2dc-4935-a09a-00ad8492c92a)
+
+
 ## 📋 프로젝트 정보
 
 - **개발 기간**: 2024.10 ~ 2024.11
